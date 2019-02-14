@@ -1,14 +1,14 @@
-#pawned
+# pawned
 
 A command-line tool to check whether your email address has been pawned.
 
 
-##Installation
+## Installation
 
 npm install pawned
 
 
-##Usage
+## Usage
 
 Just type the following command in your terminal/command line:
 
