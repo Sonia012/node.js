@@ -1,0 +1,23 @@
+{
+  "name": "pawned",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonia012/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonia012/node.js/issues"
+  },
+  "homepage": "https://github.com/Sonia012/node.js#readme",
+  "dependencies": {
+    "yargs": "^13.1.0"
+  }
+}
